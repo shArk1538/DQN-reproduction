@@ -6,7 +6,7 @@ pip install gymnasium
 ```
 python main.py
 ```
-*you can set the hyperparameters by youself*
+*you can set the hyperparameters by yourself*
 ### Python files description
 1. Make sure you install the pytorch GPU version to speed up training
 2. **main.py:** create the game environment and start train loop
